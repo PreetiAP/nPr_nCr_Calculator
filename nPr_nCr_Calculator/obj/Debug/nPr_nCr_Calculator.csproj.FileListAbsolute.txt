@@ -1,0 +1,14 @@
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\bin\Debug\nPr_nCr_Calculator.exe.config
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\bin\Debug\nPr_nCr_Calculator.exe
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\bin\Debug\nPr_nCr_Calculator.pdb
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\Calculator.baml
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\MainWindow.baml
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\Calculator.g.cs
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\App.g.cs
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\nPr_nCr_Calculator_MarkupCompile.cache
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\nPr_nCr_Calculator.g.resources
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\nPr_nCr_Calculator.Properties.Resources.resources
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\nPr_nCr_Calculator.csproj.GenerateResource.Cache
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\nPr_nCr_Calculator.exe
+C:\Users\23455\Desktop\20June\C#\HobbyProjects\nPr_nCr_Calculator\nPr_nCr_Calculator\obj\Debug\nPr_nCr_Calculator.pdb

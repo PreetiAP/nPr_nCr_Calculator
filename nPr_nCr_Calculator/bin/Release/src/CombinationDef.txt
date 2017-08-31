@@ -1,0 +1,11 @@
+Combinations:
+
+	Each of the different groups or selections which can be formed by taking some or all of a number of objects is called a combination.
+	
+Examples:
+	1. Suppose we want to select two out of three boys A, B, C. Then, possible selections are AB, BC and CA.
+		Note: AB and BA represent the same selection.
+	2. All the combinations formed by a, b, c taking ab, bc, ca.
+	3. The only combination that can be formed of three letters a, b, c taken all at a time is abc.
+	4. Various groups of 2 out of four persons A, B, C, D are: AB, AC, AD, BC, BD, CD.
+	5. Note that ab ba are two different permutations but they represent the same combination.

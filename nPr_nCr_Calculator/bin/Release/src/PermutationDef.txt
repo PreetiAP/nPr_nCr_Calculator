@@ -1,0 +1,7 @@
+Permutations:
+
+	The different arrangements of a given number of things by taking some or all at a time, are called permutations.
+	
+Examples:
+	1. All permutations/arrangements made with the letters a, b, c by taking two at a time are ab, ba, ac, ca, bc, cb
+	2. All permutations made with the letters a, b, c taking all at a time are: abc, acb, bac, bca, cab, cba
